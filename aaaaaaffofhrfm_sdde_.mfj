@@ -1,0 +1,36 @@
+{
+	"_type": "ERDRelationshipView",
+	"_id": "AAAAAAFfofhRfm/sDdE=",
+	"_parent": {
+		"$ref": "AAAAAAFLzntJC6ElOqo="
+	},
+	"model": {
+		"$ref": "AAAAAAFfofhRfW/ofBY="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"head": {
+		"$ref": "AAAAAAFfoeGA92+Fstc="
+	},
+	"tail": {
+		"$ref": "AAAAAAFfobvVcm545l4="
+	},
+	"lineStyle": 2,
+	"points": "608:425;341:425",
+	"nameLabel": {
+		"$ref": "AAAAAAFfofhRfm/tRJ8="
+	},
+	"tailNameLabel": {
+		"$ref": "AAAAAAFfofhRfm/uHRk="
+	},
+	"headNameLabel": {
+		"$ref": "AAAAAAFfofhRfm/vCJs="
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"_type": "ERDColumnView",
+	"_id": "AAAAAAFfob3LpW7CHsQ=",
+	"_parent": {
+		"$ref": "AAAAAAFfob1qx26qsSk="
+	},
+	"model": {
+		"$ref": "AAAAAAFfob3LjW6/a90="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 389,
+	"top": 137,
+	"width": 114.6181640625,
+	"height": 13,
+	"autoResize": false
+}

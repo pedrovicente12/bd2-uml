@@ -1,0 +1,14 @@
+{
+	"_type": "ERDColumn",
+	"_id": "AAAAAAFfobwm526ZOvA=",
+	"_parent": {
+		"$ref": "AAAAAAFfobvVcm52nvo="
+	},
+	"name": "data_nascimento",
+	"type": "DATE",
+	"length": 0,
+	"primaryKey": false,
+	"foreignKey": false,
+	"nullable": false,
+	"unique": false
+}

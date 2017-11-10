@@ -1,0 +1,11 @@
+{
+	"_type": "ERDRelationshipEnd",
+	"_id": "AAAAAAFfofhRfW/qIO0=",
+	"_parent": {
+		"$ref": "AAAAAAFfofhRfW/ofBY="
+	},
+	"reference": {
+		"$ref": "AAAAAAFfoeGA92+DKxM="
+	},
+	"cardinality": "0..*"
+}

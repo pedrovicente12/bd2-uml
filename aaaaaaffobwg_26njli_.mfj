@@ -1,0 +1,14 @@
+{
+	"_type": "ERDColumn",
+	"_id": "AAAAAAFfobwg+26NjLI=",
+	"_parent": {
+		"$ref": "AAAAAAFfobvVcm52nvo="
+	},
+	"name": "id_empresa",
+	"type": "INTEGER",
+	"length": 0,
+	"primaryKey": false,
+	"foreignKey": true,
+	"nullable": false,
+	"unique": false
+}

@@ -1,0 +1,26 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFfobvVcm55jg8=",
+	"_parent": {
+		"$ref": "AAAAAAFfobvVcm545l4="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 608,
+	"top": 253,
+	"width": 242.3798828125,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Empregados",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5,
+	"wordWrap": false
+}

@@ -1,0 +1,30 @@
+{
+	"_type": "ERDRelationship",
+	"_id": "AAAAAAFfofhRfW/ofBY=",
+	"_parent": {
+		"$ref": "AAAAAAFfobvVcm52nvo="
+	},
+	"end1": {
+		"_type": "ERDRelationshipEnd",
+		"_id": "AAAAAAFfofhRfW/pItQ=",
+		"_parent": {
+			"$ref": "AAAAAAFfofhRfW/ofBY="
+		},
+		"reference": {
+			"$ref": "AAAAAAFfobvVcm52nvo="
+		},
+		"cardinality": "1"
+	},
+	"end2": {
+		"_type": "ERDRelationshipEnd",
+		"_id": "AAAAAAFfofhRfW/qIO0=",
+		"_parent": {
+			"$ref": "AAAAAAFfofhRfW/ofBY="
+		},
+		"reference": {
+			"$ref": "AAAAAAFfoeGA92+DKxM="
+		},
+		"cardinality": "0..*"
+	},
+	"identifying": true
+}

@@ -1,0 +1,10 @@
+{
+	"_type": "ERDDiagram",
+	"_id": "AAAAAAFLzntJC6ElOqo=",
+	"_parent": {
+		"$ref": "AAAAAAFLzntJC6EktCk="
+	},
+	"name": "Main",
+	"visible": true,
+	"defaultDiagram": true
+}
